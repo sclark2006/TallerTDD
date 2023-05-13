@@ -1,0 +1,5 @@
+﻿Como usuario quiero poder validar mi cedula
+	- La cédula debe tener 11 caracteres (ni más, ni menos)
+	- Debe ser numérica
+	- El último digíto de la cédula corresponde al dígito verificador, el cual valida si los 7 números 
+		cumplen con la nomenclatura de una cédula válida
