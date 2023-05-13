@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto", "Proyecto\Proyecto.csproj", "{D247995F-3571-4FD5-8B10-341BE161B646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit", "Test\TestXUnit.csproj", "{EF4D4D67-C656-4A27-B99D-965A8DDB9B75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit", "TestXUnit\TestXUnit.csproj", "{EF4D4D67-C656-4A27-B99D-965A8DDB9B75}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNUnit", "TestNUnit\TestNUnit.csproj", "{78F8EF59-1811-4F0F-A349-2FCBB65954A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsLightBDD", "LightBDDTests\TestsLightBDD.csproj", "{DE76F8E9-7865-48D3-AA9B-F41A3C0F31CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsLightBDD", "TestsLightBDD\TestsLightBDD.csproj", "{DE76F8E9-7865-48D3-AA9B-F41A3C0F31CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
